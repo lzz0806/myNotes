@@ -1,2 +1,2 @@
-*  测试工程师
- * [数学](/testEngineer/ch2.md)
+* Typora+Docsify使用指南
+  * [Docsify使用指南](/testEngineer/README.md)
