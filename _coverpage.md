@@ -5,5 +5,4 @@
 
 
 
-[测试题库](/testEngineer/)
-[算法题库](./入门篇/README.md)
+[测试题库](/testEngineer/README.md)
